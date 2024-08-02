@@ -15,5 +15,6 @@ public class Main {
                 System.out.println("Число неизвестно");
                 break;
         }
+        // Hi Sensei
     }
 }

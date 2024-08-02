@@ -59,4 +59,6 @@ public class Main3 {
         System.out.println("Добавить молоко или сахар по-вкусу");
         duration();
     }
+
+    // End of program
 }
